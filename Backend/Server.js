@@ -19,7 +19,8 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://frontend-social-9o9mj6ycb-nomib508-gmailcom.vercel.app",
-      "https://frontend-social-app.vercel.app"
+      "https://frontend-social-app.vercel.app",
+      "https://friendz-frontend.vercel.app"
     ],
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,

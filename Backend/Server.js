@@ -17,7 +17,7 @@ dotenv.config({ path: ".env" });
 app.use(
   cors({
     origin: [
-      "http://localhost:5173",
+      "http://localhost:5175",
       "https://frontend-social-9o9mj6ycb-nomib508-gmailcom.vercel.app",
       "https://frontend-social-app.vercel.app",
       "https://friendz-frontend.vercel.app"
